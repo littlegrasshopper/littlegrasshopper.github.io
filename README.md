@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="{{ site.baseurl }}/css/css.css">
-<script src="{{ site.baseurl }}/js/scripts.js"></script>
 
 # Android Projects
 
@@ -8,7 +6,7 @@
 
 | Show Items | Edit Item | Filter Items |
 | :------------: |:---------------:| :---------------:| 
-|![list-more](/littlegrasshopper/busybee-assets/blob/master/BusyBee_ItemList_more.png)  |![edit-item](/littlegrasshopper/busybee-assets/blob/master/BusyBee_EditItem.png)| ![show-filter](/littlegrasshopper/busybee-assets/blob/master/BusyBee_ItemList_Filter.png) |
+|![list-more](https://github.com/littlegrasshopper/busybee-assets/blob/master/BusyBee_ItemList_more.png)  |![edit-item](https://github.com/littlegrasshopper/busybee-assets/blob/master/BusyBee_EditItem.png)| ![show-filter](https://github.com/littlegrasshopper/busybee-assets/blob/master/BusyBee_ItemList_Filter.png) |
 
 * [Baking App](https://github.com/littlegrasshopper/AdvancedAndroid_BakingApp) - Fragments, ExoPlayer, Homescreen Widget
 * [Popular Movies, Part 2](https://github.com/littlegrasshopper/popular-movies-part-two) - Room, LiveData, ViewModel, RxJava2, Retrofit2
